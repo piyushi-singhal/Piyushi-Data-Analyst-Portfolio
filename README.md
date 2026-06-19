@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Piyushi Singhal — Data Analytics & AI Engineering Portfolio
 
-## Getting Started
+Data analytics portfolio of Piyushi Singhal. A curated collection of dashboards, machine learning applications, and cloud-enabled solutions built for measurable business impact.
 
-First, run the development server:
+<p align="center">
+  <a href="https://linkedin.com/in/piyushi-singhal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/piyushi-singhal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:piyushisinghal24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 👤 About Me
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+I am a Computer Science undergraduate with a business-first analytics mindset. I bridge the gap between technical complexity and business growth — building predictive pipelines, cloud architectures, and dashboard interfaces that turn complex data assets into actionable executive recommendations.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 🎓 **Education:** B.Tech in Computer Science Engineering (SRM Institute of Science & Technology, 2023 - 2027)
+- 📈 **CGPA:** 8.8+
+- 🛠️ **Core Focus:** Data Analysis, Predictive Modeling, AI Applications, and BI Dashboards
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🚀 Projects Featured
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 1. [RetailIQ Analytics Dashboard](https://github.com/piyushi-singhal/RetailIQ-Analytics-Dashboard)
+An end-to-end business analytics solution that improved data accessibility, enabled faster decision-making, and provided meaningful insights through dynamic visual reporting.
+- **Technologies:** Python, SQL, Tableau
+- **Focus:** Transaction logs preprocessing, catalog normalization, interactive category drilldowns, and weekly margin analysis.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 2. [QuantEdge (Quantum-AI Hybrid Tokenization Platform)](https://github.com/piyushi-singhal/QuantEdge)
+A scalable research-driven platform enabling intelligent data protection, secure tokenization workflows, and encryption benchmarking.
+- **Technologies:** Python, Cryptography, Blockchain
+- **Focus:** Sensitive data patterns masking, key validation latency logs analysis, and post-quantum encryption tuning.
 
-## Deploy on Vercel
+### 3. [AI Trip Planner](https://github.com/piyushi-singhal/ai-trip-planner)
+An AI-powered travel planning application capable of generating personalized itineraries based on user preferences and travel constraints.
+- **Technologies:** Python, Machine Learning, APIs, Next.js, TypeScript
+- **Focus:** Destination preference clustering, route transit path ranking, and budget optimization.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🛠️ Technology Stack
+
+- **Analytics & Data Science:** Python (Pandas, Scikit-Learn, Scipy, Numpy, TensorFlow), SQL, Excel, Tableau
+- **Frontend & Visualizations:** React, TanStack Start (SSR), Tailwind CSS, Framer Motion, Recharts, Lucide Icons
+- **Tooling & Infrastructure:** Vite, Git, Node.js
+
+---
+
