@@ -40,14 +40,15 @@ Data-driven Computer Science undergraduate at SRM Institute of Science and Techn
 
 ---
 
-## 🚀 Interactive Project Showcase
+## 🚀 Interactive Project Showcase Matrix
 
-| Project Name | Category | Core Tech Stack | Key Impact & Metrics | Links |
+| Project Name | Category | Core Tech Stack | Key Impact & Highlights | Links |
 | :--- | :--- | :--- | :--- | :---: |
-| **RetailIQ Analytics Dashboard** | Data Analytics | Python, SQL, Pandas, Tableau, Excel | Analyzed 9,994+ transactional records & built 10+ Tableau margin dashboards | [Repo](https://github.com/piyushi-singhal/RetailIQ-Analytics-Dashboard) |
-| **MLForge Platform** | MLOps & Systems | Python, FastAPI, Docker, RabbitMQ, Redis, Prometheus, Grafana | Distributed ML serving with >4,200 RPS throughput & sub-100ms p99 latency | [Repo](https://github.com/piyushi-singhal/MLForge-Distributed-ML-Model-Serving-Monitoring-Platform) |
-| **Cloud Self-Healing Infrastructure** | Cloud & DevOps | AWS EC2, ALB, Auto Scaling, CloudWatch, Lambda, DynamoDB | Automated zero-downtime EC2 recovery & serverless incident audit logging | [Repo](https://github.com/piyushi-singhal/Cloud-Based-Self-Healing-Infrastructure-Monitoring-System) |
-| **FixForsight / Quantum-AI Platform** | AI & Security | Python, Cryptography, Blockchain, ML | Engineered 18+ features & achieved 98.15% accuracy for predictive risk scans | [Repo](https://github.com/piyushi-singhal/QuantEdge) |
+| **RetailIQ Analytics Dashboard** | Data Analytics | Python, SQL, Tableau, Excel | Processed 9,994+ transactional records; reduced weekly reporting latency by 40% | [Repo](https://github.com/piyushi-singhal/RetailIQ-Analytics-Dashboard) |
+| **FixForsight Predictive Maintenance** | AI & Predictive Analytics | Python, Scikit-Learn, XGBoost, SQL | Engineered 18+ telemetry features & achieved 98.15% accuracy (0.97 ROC-AUC) | [Repo](https://github.com/piyushi-singhal/FixForsight) |
+| **MLForge Platform** | MLOps & Systems | FastAPI, Docker, RabbitMQ, Redis, Prometheus | Distributed ML serving with >4,200 RPS throughput & sub-100ms p99 latency | [Repo](https://github.com/piyushi-singhal/MLForge-Distributed-ML-Model-Serving-Monitoring-Platform) |
+| **Cloud Self-Healing Infrastructure** | Cloud & DevOps | AWS EC2, ALB, Auto Scaling, CloudWatch, Lambda | Automated zero-downtime EC2 recovery & serverless incident audit logging | [Repo](https://github.com/piyushi-singhal/Cloud-Based-Self-Healing-Infrastructure-Monitoring-System) |
+| **Quantum-AI Hybrid Tokenization Platform** | AI & Security | Python, Cryptography, Blockchain, ML | Hybrid AI security engine for data tokenization & encryption latency benchmarking | [Repo](https://github.com/piyushi-singhal/QuantEdge) |
 | **AI Trip Planner** | AI Applications | React, LLM Embeddings, Next.js, Vector Search | Autonomous travel itinerary generation matching budget & transit constraints | [Repo](https://github.com/piyushi-singhal/ai-trip-planner) |
 
 ---
@@ -67,7 +68,19 @@ Data-driven Computer Science undergraduate at SRM Institute of Science and Techn
 </details>
 
 <details>
-<summary><b>2. MLForge — Distributed ML Model Serving & Monitoring Platform</b></summary>
+<summary><b>2. FixForsight — Predictive Maintenance & Equipment Health Anomaly Detection</b></summary>
+
+<br />
+
+* **Business Problem:** Industrial machinery operators faced unexpected equipment breakdowns and high downtime costs due to lack of real-time sensor telemetry failure forecasting.
+* **Technical Approach:** Preprocessed industrial sensor readings, engineered 18+ operational health features, and benchmarked 5 machine learning classifiers (XGBoost, Random Forest, SVM, Decision Trees, Logistic Regression).
+* **Key Outcome:** Achieved **98.15% classification accuracy** and **0.97 ROC-AUC score**, giving operations teams a 48-hour buffer window before component breakdown.
+* **GitHub Repository:** [FixForsight](https://github.com/piyushi-singhal/FixForsight)
+
+</details>
+
+<details>
+<summary><b>3. MLForge — Distributed ML Model Serving & Monitoring Platform</b></summary>
 
 <br />
 
@@ -79,7 +92,7 @@ Data-driven Computer Science undergraduate at SRM Institute of Science and Techn
 </details>
 
 <details>
-<summary><b>3. Cloud-Based Self-Healing Infrastructure Monitoring System</b></summary>
+<summary><b>4. Cloud-Based Self-Healing Infrastructure Monitoring System</b></summary>
 
 <br />
 
@@ -91,14 +104,26 @@ Data-driven Computer Science undergraduate at SRM Institute of Science and Techn
 </details>
 
 <details>
-<summary><b>4. FixForsight — Predictive Maintenance & AI Security Platform</b></summary>
+<summary><b>5. Quantum-AI Hybrid Tokenization Platform (QuantEdge)</b></summary>
 
 <br />
 
-* **Business Problem:** Industrial hardware operators required automated anomaly detection to prevent catastrophic equipment failure.
-* **Technical Approach:** Preprocessed industrial sensor logs, engineered 18+ operational health features, and benchmarked XGBoost and Random Forest classifiers.
-* **Key Outcome:** Achieved **98.15% classification accuracy** and **0.97 ROC-AUC** for failure risk forecasting.
-* **GitHub Repository:** [QuantEdge / FixForsight](https://github.com/piyushi-singhal/QuantEdge)
+* **Business Problem:** Organizations require resilient data protection protocols capable of securing sensitive data flows against emerging post-quantum decryption threats.
+* **Technical Approach:** Built analytical pipelines to classify sensitive data patterns automatically and evaluated post-quantum encryption key latency using cryptography libraries and smart contract verification.
+* **Key Outcome:** Validated post-quantum cryptographic key patterns while maintaining performance within standard system latency.
+* **GitHub Repository:** [QuantEdge Platform](https://github.com/piyushi-singhal/QuantEdge)
+
+</details>
+
+<details>
+<summary><b>6. AI Trip Planner — Autonomous Itinerary Generator</b></summary>
+
+<br />
+
+* **Business Problem:** Travelers spend hours manually compiling itineraries across fragmented booking portals without personalized constraint matching.
+* **Technical Approach:** Implemented LLM embeddings and recommendation ranking algorithms to match traveler affinity profiles against destination features and transit schedules.
+* **Key Outcome:** Automated personalized trip planning workflows, reducing itinerary creation time by 80%.
+* **GitHub Repository:** [AI Trip Planner](https://github.com/piyushi-singhal/ai-trip-planner)
 
 </details>
 
@@ -109,7 +134,8 @@ Data-driven Computer Science undergraduate at SRM Institute of Science and Techn
 ```text
 ├── 📊 Programming & Querying    : Python, SQL (MySQL, PostgreSQL), JavaScript, TypeScript
 ├── 📈 Data Analysis & BI        : Pandas, NumPy, Data Cleaning, EDA, Feature Engineering, Tableau, Power BI, Excel
-├── ⚙️ MLOps & Distributed Systems: FastAPI, Docker, RabbitMQ, Redis, Prometheus, Grafana, Microservices
-├── ☁️ Cloud & Infrastructure     : AWS (EC2, CloudWatch, Lambda, Auto Scaling, DynamoDB, S3), Solution Architecture
+├── ⚙️ MLOps & Machine Learning  : Scikit-Learn, XGBoost, FastAPI, Docker, RabbitMQ, Redis, Prometheus, Grafana
+├── ☁️ Cloud & Infrastructure     : AWS (EC2, CloudWatch, Lambda, Auto Scaling, DynamoDB, S3), System Design
 └── 💻 Core Computer Science     : Data Structures & Algorithms, Systems Design, Git, Linux
 ```
+
