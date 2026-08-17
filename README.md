@@ -113,31 +113,3 @@ Data-driven Computer Science undergraduate at SRM Institute of Science and Techn
 ├── ☁️ Cloud & Infrastructure     : AWS (EC2, CloudWatch, Lambda, Auto Scaling, DynamoDB, S3), Solution Architecture
 └── 💻 Core Computer Science     : Data Structures & Algorithms, Systems Design, Git, Linux
 ```
-
----
-
-## ⚡ Quick Start — Running Portfolio Locally
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/piyushi-singhal/Portfolio-Data-Analyst.git
-
-# 2. Navigate to project directory
-cd Portfolio-Data-Analyst
-
-# 3. Install dependencies
-npm install
-
-# 4. Start local development server
-npm run dev
-```
-
-Visit `http://localhost:8080` in your web browser to explore the portfolio!
-
----
-
-<div align="center">
-
-Crafted with care by **Piyushi Singhal** | Connect on [LinkedIn](https://linkedin.com/in/piyushi-singhal) or email [piyushisinghal24@gmail.com](mailto:piyushisinghal24@gmail.com)
-
-</div>
