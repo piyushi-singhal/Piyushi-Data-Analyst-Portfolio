@@ -45,7 +45,7 @@ Data-driven Computer Science undergraduate at SRM Institute of Science and Techn
 | Project Name | Category | Core Tech Stack | Key Impact & Highlights | Links |
 | :--- | :--- | :--- | :--- | :---: |
 | **RetailIQ Analytics Dashboard** | Data Analytics | Python, SQL, Tableau, Excel | Processed 9,994+ transactional records; reduced weekly reporting latency by 40% | [Repo](https://github.com/piyushi-singhal/RetailIQ-Analytics-Dashboard) |
-| **FixForsight Predictive Maintenance** | AI & Predictive Analytics | Python, Scikit-Learn, XGBoost, SQL | Engineered 18+ telemetry features & achieved 98.15% accuracy (0.97 ROC-AUC) | [Repo](https://github.com/piyushi-singhal/FixForsight) |
+| **FixForsight Predictive Maintenance** | AI & Predictive Analytics | Python, Scikit-Learn, XGBoost, SQL | Engineered 18+ telemetry features & achieved 98.15% accuracy (0.97 ROC-AUC) | [Repo](https://github.com/piyushi-singhal/FixForesight) |
 | **MLForge Platform** | MLOps & Systems | FastAPI, Docker, RabbitMQ, Redis, Prometheus | Distributed ML serving with >4,200 RPS throughput & sub-100ms p99 latency | [Repo](https://github.com/piyushi-singhal/MLForge-Distributed-ML-Model-Serving-Monitoring-Platform) |
 | **Cloud Self-Healing Infrastructure** | Cloud & DevOps | AWS EC2, ALB, Auto Scaling, CloudWatch, Lambda | Automated zero-downtime EC2 recovery & serverless incident audit logging | [Repo](https://github.com/piyushi-singhal/Cloud-Based-Self-Healing-Infrastructure-Monitoring-System) |
 | **Quantum-AI Hybrid Tokenization Platform** | AI & Security | Python, Cryptography, Blockchain, ML | Hybrid AI security engine for data tokenization & encryption latency benchmarking | [Repo](https://github.com/piyushi-singhal/QuantEdge) |
